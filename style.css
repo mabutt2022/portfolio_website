@@ -2118,3 +2118,8 @@ svg:not(:root) {
     overflow-clip-margin: content-box;
     overflow: hidden;
 }
+
+.item-name-1 {
+    font-weight: lighter;
+    font-size: 0.8rem;
+}
